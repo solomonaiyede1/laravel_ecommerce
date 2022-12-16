@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp64\www\backup_code\resources\views\product\computer.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+Delete successful<?php /**PATH C:\wamp64\www\backup_code\resources\views\product-admin-delete.blade.php ENDPATH**/ ?>

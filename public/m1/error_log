@@ -1,0 +1,11 @@
+[09-Sep-2021 09:40:22 Africa/Lagos] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.33. in /home/marketm1/malls.marketmasta.com/vendor/composer/platform_check.php on line 24
+[16-Sep-2021 13:05:11 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[16-Sep-2021 13:05:15 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[16-Sep-2021 13:05:18 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[16-Sep-2021 13:05:23 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[10-Oct-2021 01:41:21 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductController::payment() in /home/marketm1/malls.marketmasta.com/app/Http/Controllers/ProductController.php on line 174
+[17-Oct-2021 02:12:18 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[17-Oct-2021 02:12:22 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[17-Oct-2021 02:12:31 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[17-Oct-2021 02:12:47 Africa/Lagos] PHP Fatal error:  Constant expression contains invalid operations in /home/marketm1/malls.marketmasta.com/app/Providers/RouteServiceProvider.php on line 15
+[26-Oct-2021 20:52:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/marketm1/malls.marketmasta.com/storage/framework/views/b96eefcd1cff50a9a751ddeee136c100c62bcc18.php on line 67

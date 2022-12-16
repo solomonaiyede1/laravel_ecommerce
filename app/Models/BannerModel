@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+use App\Models\BannerModel;
+
+class User extends Authenticatable
+{
+
+    protected $fillable = [
+        'title'
+    ];
+}
+
